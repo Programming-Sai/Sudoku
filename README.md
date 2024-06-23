@@ -47,7 +47,7 @@ Welcome to the Sudoku game implemented in Python. This project includes a Sudoku
    - Select `2` for New Game: Starts a new Sudoku game with a randomly generated puzzle.
 
 3. **User Input**:
-   - Enter your moves in the format `columnrowaction` (e.g., `a1e` to enter a value in cell (A, 1)).
+   - Enter your moves in the format `column-row-action` (e.g., `a1e` to enter a value in cell (A, 1)).
    - Actions:
      - `e`: Enter a value.
      - `s`: Show possible moves for the selected cell.
