@@ -1,0 +1,18 @@
+
+      [1m[3m      SUDOKU      [0m      
+Rules:
+  1) All values must be unique in the 
+  row, column or subgrid.
+  
+  2) To enter a value in an empty cell, 
+  follow this format
+  (COL ROW 'e'), and follow the prompts       
+  
+  3) To see all possible values for 
+  an empty cell, follow this format
+  (COL ROW 's')     
+  
+  
+       [1m[3m      Enjoy!!      [0m
+
+                   
